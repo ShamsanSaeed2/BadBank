@@ -1,2 +1,2 @@
-# BadBank
-This is Bad bank homework repository
+# badbank
+Bad Bank HW
